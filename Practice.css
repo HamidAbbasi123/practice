@@ -1,0 +1,218 @@
+*{
+    margin :0;
+    padding:0;
+}
+
+.Main_heading_Double{
+    text-align: center;
+}
+.Card_Design{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.card{
+    height: 250px;
+    width:200px;
+    margin-top: 10px;
+ margin: 5px;
+  
+    
+}
+.FirstSection{
+    background-color: rgb(117, 163, 232);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.img{
+    height: 60px;
+    width: 60px;
+    border: 2px solid silver;
+    border-radius: 50px;
+}
+.img2 {
+    height: 60px;
+    width: 60px;
+    border: 2px solid silver;
+    border-radius: 50px;
+    margin-left: -10px;
+}
+.Signal_image{
+    height: 70px;
+}
+
+.Image_Heading{
+    text-align: center;
+    margin-top: 8px;
+}
+.Paragraph{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 12px;
+}
+
+.Button{
+    display: flex;
+    justify-content: center;
+}
+.Button_Design{
+    height: 10px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    background-color: rgb(74, 48, 248);
+    color: white;
+    border-radius: 5px;
+}
+
+
+
+.Findig_Double{
+
+    margin-top: 60px;
+    width: 260px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.Tags_And_Image{
+    display: flex;
+    flex-direction: row;
+    
+}
+.Tags_Design{
+    display: flex;
+    flex-direction: column;
+    
+}
+.Tags{
+    margin-top: 20px;
+}
+
+.Tag_Name{
+    margin-left: 50px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(97, 92, 92);
+}
+
+.Tag_Name2{
+    margin-left: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(97, 92, 92);
+}
+.Tag_Name3{
+    margin-left: 10px;
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+}
+.Study_Image{
+    height: 250px;
+    width: 450px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: -70px;
+}
+
+.Style-Image{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+}
+.Image1{
+    margin-top: 60px;
+    border-radius: 10px;
+    width: 240px;
+}
+
+.Image2{
+    height: 275px;
+    width: 220px;
+    border-radius: 10px;
+    margin-left: 10px; 
+}
+.Join_Community{
+    width: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.Image_Line{
+    margin-top: 10px;
+    font-size: 13px;
+    text-decoration: none;
+}
+.Image_Line2{
+    margin-left: 5px;
+    margin-top: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(74, 48, 248);
+}
+.Double_Assistants{
+    margin-top: 45px;
+    width: 220px;
+    margin-left: 100px;
+}
+
+.Description_Double_Assistants{
+    margin-top: 10px;
+    width: 230px ;
+    font-size: 13px;
+}
+
+
+span {
+  content: "\2713";
+  color: rgb(74, 48, 248) ;
+  font-weight: bold;
+}
+
+.P_Design{
+    margin-left: 4px;
+    font-size: 13px;
+}
+
+/* .Button_Double_Assistant{
+    border: 2px solid black;
+    margin-top: 30px;
+    border-radius: 10px;
+    height: 40px;
+    background-color: rgb(74, 48, 248) ;
+}
+.Button_Assistant{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+    color: white;
+
+  
+} */
+
+.Button2{
+    display: flex;
+    justify-content: center;
+}
+.Button_Design2{
+    height: 5px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    background-color: rgb(101, 79, 250);
+    color: white;
+    border-radius: 8px;
+    margin-left: -40px;
+    margin-top: 20px;
+}
