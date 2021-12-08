@@ -5,6 +5,7 @@
 
 .Main_heading_Double{
     text-align: center;
+    font-weight: bold;
 }
 .Card_Design{
     display: flex;
@@ -128,6 +129,7 @@
     display: flex;
     flex-direction: row;
     margin-left: 100px;
+    justify-content: center;
 }
 .Image1{
     margin-top: 60px;
@@ -215,4 +217,33 @@ span {
     border-radius: 8px;
     margin-left: -40px;
     margin-top: 20px;
+}
+.Double_Impact{
+    border: 1px solid silver;
+    width: 280px;
+    height: 140px;
+    margin-left: 100px;
+}
+.Percent_Heading{
+    color: rgb(101, 79, 250);
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 5px;
+}
+.Hours_Heading{
+    color: rgb(101, 79, 250);
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 5px
+}
+.Graph_Image{
+    border: 1px solid silver;
+    width: 280px;
+    height: 140px;
+   
+}
+
+.graph_image{
+    height: 130px;
+    align-items: center;
 }
